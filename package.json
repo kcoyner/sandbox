@@ -1,0 +1,21 @@
+{
+  "name": "sandbox",
+  "version": "0.0.1",
+  "description": "Just a playground for toys we share",
+  "main": "remotethings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underdogtech/sandbox.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/underdogtech/sandbox/issues"
+  },
+  "homepage": "https://github.com/underdogtech/sandbox#readme",
+  "dependencies": {
+    "luxon": "1.0.0"
+  }
+}
