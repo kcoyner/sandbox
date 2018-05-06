@@ -7,7 +7,7 @@ let dtE = dt.getTime()
 var instance = axios.create({
   baseURL: 'https://cp.remotethings.co.uk/api',
   timeout: 5000,
-  headers: {'Authorization': 'pT4kQ4VifoHxQp6m27cbAbitEhs4Cs0zlE1KtV9Z9iv2r2871uT0QVarG1D991DC'},
+  headers: {'Authorization': 'PJeoXCVNAZoOI4K8f0o577IckQirhQmETUwqf85nfpo8Ndkc7n43mPDjSSlfuDsK'},
   params: {
     filter: {
       where: {
@@ -23,4 +23,4 @@ var instance = axios.create({
 
 instance.get('/devices/463/points').then((resp) => {
   console.log('resp.data: ', resp.data)
-})
+}).catch((error) => console.log(error))

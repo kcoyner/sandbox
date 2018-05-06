@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/underdogtech/sandbox#readme",
   "dependencies": {
+    "axios": "0.18.0",
     "luxon": "1.0.0"
   }
 }

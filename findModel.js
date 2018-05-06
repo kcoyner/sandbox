@@ -6,7 +6,7 @@ var instance = axios.create({
   headers: {'Authorization': 'PJeoXCVNAZoOI4K8f0o577IckQirhQmETUwqf85nfpo8Ndkc7n43mPDjSSlfuDsK'},
 })
 
-instance.get('/devices/463/sleep').then((resp) => {
+instance.get('/devices/463').then((resp) => {
   console.log('resp.data: ', resp.data)
   console.log('resp.statusText: ', resp.statusText)
   console.log('resp.status: ', resp.status)

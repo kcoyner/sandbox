@@ -3,10 +3,7 @@ const axios = require('axios')
 var instance = axios.create({
   baseURL: 'https://cp.remotethings.co.uk/api',
   timeout: 5000,
-  headers: {
-    Authorization:
-      'pT4kQ4VifoHxQp6m27cbAbitEhs4Cs0zlE1KtV9Z9iv2r2871uT0QVarG1D991DC'
-  }
+  headers: {'Authorization': 'PJeoXCVNAZoOI4K8f0o577IckQirhQmETUwqf85nfpo8Ndkc7n43mPDjSSlfuDsK'},
 })
 
 const body = {
@@ -33,7 +30,8 @@ const body = {
   receivedAt: '2018-04-19T22:03:46.000Z',
   reset: null,
   flashTryCount: 0,
-  homeWifiNetwork: 'station4-1042',
+  // homeWifiNetwork: 'station4-1042',
+  homeWifiNetwork: '',
   wakeAction: 'normal',
   onDemandTime: 30,
   alertAction: 'nothing',
@@ -46,4 +44,5 @@ instance.put('/devices/463/config', body).then(resp => {
   console.log('resp.data: ', resp.data)
   console.log('resp.statusText: ', resp.statusText)
   console.log('resp.status: ', resp.status)
-})
+}).catch((error) => console.log(error))
+
