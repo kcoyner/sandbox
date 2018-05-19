@@ -1,0 +1,44 @@
+D:\Bin\Source Code For Clients\217002 (BisaWifi)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Bin\Source Code For Clients\217002 (BisaWifi)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Bin\Source Code For Clients\217002 (BisaWifi)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Bin\Source Code For Clients\217002 (BisaWifi)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Bin\Source Code For Clients\217002 (BisaWifi)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Bin\Source Code For Clients\217002 (BisaWifi)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Bin\Source Code For Clients\217002 (BisaWifi)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Bin\Source Code For Clients\217002 (BisaWifi)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\Demo Source Code (C#)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\Demo Source Code (C#)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\bina\Desktop\API\API\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\bina\Desktop\API\API\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\bina\Desktop\API\API\API\Demo Source Code (C#)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\bina\Desktop\API\API\API\Demo Source Code (C#)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\bina\Desktop\API\API\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bina\Desktop\API\API\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\bina\Desktop\API\API\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\bina\Desktop\API\API\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\gaorfid\Tech Support\Software\BISA TCP For End Users\217002 Wifi Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002 WiFi Active RFID Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002 WiFi Active RFID Reader\API\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\GAO217002Y\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\GAO217002Y\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002Y\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002Y\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002Y\Demo Source Code (C#)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002Y\Demo Source Code (C#)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002Y\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002Y\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002Y\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\gaorfid\Tech Support\Software\Product CD\RFID\217002Y\Demo Source Code (C#)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
