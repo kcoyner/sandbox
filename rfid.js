@@ -1,6 +1,7 @@
 const http = require('http')
 const net = require('net')
 const url = require('url')
+const DateTime = require('luxon') 
 
 // Create an HTTP tunneling proxy
 const proxy = http.createServer((req, res) => {
@@ -27,8 +28,7 @@ proxy.listen(1337, '127.0.0.1', () => {
     port: 1337,
     hostname: '127.0.0.1',
     method: 'CONNECT',
-    // path: 'www.google.com:80'
-    path: '172.16.10.57:8899'
+    path: '10.10.100.100:8899'
   }
 
   const req = http.request(options)
@@ -39,13 +39,18 @@ proxy.listen(1337, '127.0.0.1', () => {
 
     // make a request over an HTTP tunnel
     socket.write('GET / HTTP/1.1\r\n' +
-                 // 'Host: www.google.com:80\r\n' +
-                 'Host: 172.16.10.57:8899\r\n' +
+                 'Host: 10.10.100.100:8899\r\n' +
                  'Connection: close\r\n' +
                  '\r\n')
     socket.on('data', (chunk) => {
-      // console.log(chunk.toString())
-      console.log(chunk)
+      let rawInfo = JSON.parse(JSON.stringify(chunk))
+
+      if (rawInfo.data.length === 16) {
+	let userInfo = rawInfo.data.slice(12)
+	userId = userInfo.map(num => num + '-').join('').slice(0, -1)
+	console.log(userId)
+      }
+
     })
     socket.on('end', () => {
       proxy.close()
